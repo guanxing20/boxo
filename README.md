@@ -42,7 +42,7 @@
   - [What are some projects that depend on this project?](#what-are-some-projects-that-depend-on-this-project)
   - [Governance and Access](#governance-and-access)
   - [Why is this named "Boxo"?](#why-is-this-named-boxo)
-  - [Additional FAQs](#additional-faqs)
+  - [Additional Docs & FAQs](#additional-docs--faqs)
   - [License](#license)
 
 <!-- /TOC -->
