@@ -31,7 +31,7 @@
 - [Consuming](#consuming)
   - [Getting started](#getting-started)
   - [Migrating to Boxo](#migrating-to-boxo)
-  - [What is the deprecation and breaking change policy?](#what-is-the-deprecation-and-breaking-change-policy)
+  - [Deprecations & Breaking Changes](#deprecations--breaking-changes)
 - [Development](#development)
   - [Should I add my IPFS component to Boxo?](#should-i-add-my-ipfs-component-to-boxo)
   - [Release Process](#release-process)
